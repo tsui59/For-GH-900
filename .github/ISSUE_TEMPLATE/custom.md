@@ -3,7 +3,8 @@ name: Custom issue template
 about: バグでも機能要望でもないイシュー
 title: ''
 labels: ''
-assignees: ''
+assignees: tsui49
+type: Task
 
 ---
 
